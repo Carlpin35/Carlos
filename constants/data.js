@@ -59,7 +59,7 @@ const userData = {
   },
  
   resumeUrl:
-    "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
+    "https://resume.io/r/Vu5biNpUV",
   socialLinks: {
     instagram: "https://instagram.com/",
     twitter: "https://twitter.com/",
