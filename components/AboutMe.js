@@ -141,6 +141,10 @@ export default function AboutMe() {
                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"
                 className="h-20 w-20 mx-4 my-4"
               />
+              <img
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png"
+                className="h-20 w-20 mx-4 my-4"
+              />
             </div>
           </div>
         </div>

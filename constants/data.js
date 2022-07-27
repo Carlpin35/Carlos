@@ -8,14 +8,30 @@ const userData = {
   address: "Buenos Aires, Argentina.",
   projects: [
     {
+      title: "Reddit clone",
+      link: "https://redt-clone.vercel.app/",
+      imgUrl: "/reddit.png",
+    },
+    {
       title: "Linkedin clone",
       link: "https://linkedin-clone-9sjkmsdnp-carlpin35.vercel.app/",
       imgUrl: "/linkedin.png",
+    },
+     {
+      title: "Netflix Clone",
+      link: "https://nfpage-clone.vercel.app/",
+      imgUrl: "/netflix.png",
     },
     {
       title: "Instagram clone",
       link: "https://instagram-clone-dun-ten.vercel.app/",
       imgUrl: "/instagram.png",
+    },
+   
+    {
+      title: "Twitter clone",
+      link: "https://twitter-clon-two.vercel.app/",
+      imgUrl: "/twitter.png",
     },
     {
       title: "Hulu clone",
@@ -28,11 +44,6 @@ const userData = {
       imgUrl: "/google.png",
     },
     {
-      title: "Twitter clone",
-      link: "https://twitter-clon-two.vercel.app/",
-      imgUrl: "/twitter.png",
-    },
-    {
       title: "Amazon clone",
       link: "https://amazon-clone-lime-ten.vercel.app/",
       imgUrl: "/amazon.png",
@@ -42,11 +53,11 @@ const userData = {
       link: "https://spt-clone.vercel.app/",
       imgUrl: "/spotify.png",
     },
-    /*{
-      title: "Whatsapp clone",
-      link: "https://devmedium.vercel.app",
-      imgUrl: "/whatsapp.png",
-    },*/
+    {
+      title: "Medium clone",
+      link: "https://med-clon.vercel.app/",
+      imgUrl: "/medium.png",
+    },
   ],
   about: {
     title:
