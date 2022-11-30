@@ -49,9 +49,9 @@ const userData = {
       imgUrl: "/amazon.png",
     },
     {
-      title: "Spotify clone",
-      link: "https://spt-clone.vercel.app/",
-      imgUrl: "/spotify.png",
+      title: "Apple Store Clone",
+      link: "https://apple-store-clone-mnvoi2juj-carlpin35.vercel.app/",
+      imgUrl: "/Apple.png",
     },
     {
       title: "Medium clone",
